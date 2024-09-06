@@ -20,5 +20,5 @@ Site informativo para demonstrar o passo a passo de como fazer uma receita de ar
 ---
 
 ## Autor
-- [Mariane Rodrigues] (https://www.linkedin.com/in/mariane-rodrigues-93a02a25b/)
+- [Mariane Rodrigues](https://www.linkedin.com/in/mariane-rodrigues-93a02a25b/)
 
